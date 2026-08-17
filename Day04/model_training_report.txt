@@ -1,0 +1,17 @@
+
+
+		LOGISTIC REGRESSION
+
+Accuracy Score : 0.9410097285099005
+Confusion Matrix
+[[61069  3439]
+ [ 5135 75703]]
+Classification Report
+              precision    recall  f1-score   support
+
+           0       0.92      0.95      0.93     64508
+           1       0.96      0.94      0.95     80838
+
+    accuracy                           0.94    145346
+   macro avg       0.94      0.94      0.94    145346
+weighted avg       0.94      0.94      0.94    145346
